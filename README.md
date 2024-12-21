@@ -1,8 +1,8 @@
-
+![logo](https://www.google.com/imgres?q=background%20image%20for%20github%20profile&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A900%2F1*b29pJKZqp6Jxb3rd9QlJiw.png&imgrefurl=https%3A%2F%2Fyushi95.medium.com%2Fhow-to-create-a-beautiful-readme-for-your-github-profile-36957caa711c&docid=a_CEHsTymcuz1M&tbnid=Gr_0eujpp96g8M&vet=12ahUKEwjnjcb787mKAxWGT2wGHU4TEuUQM3oECEwQAA..i&w=900&h=520&hcb=2&ved=2ahUKEwjnjcb787mKAxWGT2wGHU4TEuUQM3oECEwQAA)
 <h1 align="center">Hi 👋, I'm Swapnil Khairnar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right"alt="coding"width="400"src="https://tenor.com/search/chart-gifs">
+<img align="right" alt="coding" width="400" src="https://tenor.com/search/chart-gifs">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnil4004&label=Profile%20views&color=0e75b6&style=flat" alt="swapnil4004" /> </p>
 
