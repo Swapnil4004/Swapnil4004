@@ -1,4 +1,4 @@
-![logo](https://github.com/Swapnil4004/Swapnil4004/blob/main/screenshot.png?raw=true)
+![logo](https://github.com/Swapnil4004/Swapnil4004/blob/main/Aesthetic%20Simple%20Interior%20Design%20Business%20Presentation_20241222_114346_0000.png?raw=true))
 
 <h1 align="center">Hi 👋, I'm Swapnil Khairnar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
